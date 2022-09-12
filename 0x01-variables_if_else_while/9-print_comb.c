@@ -18,6 +18,6 @@ int main(void)
 			putchar(' ')
 		}
 	}
-	put char('\n');
+	putchar('\n');
 	return (0);
 }
